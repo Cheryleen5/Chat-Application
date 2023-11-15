@@ -1,1 +1,1 @@
-# Chat-Application
+This project is a real-time chat application developed using Django, Django Channels, and WebSockets. The application allows users to join chat rooms, exchange messages in real-time, and navigate through different rooms. Uses HTML, BOOTSTRAP, DJANGO, PYTHON.
